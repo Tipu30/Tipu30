@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tipu30
-- 👀 I’m interested in game developing.
-- 🌱 I’m currently learning "C".
+- 👋 Hi, I’m @Tipu30 and I am a full stack developer.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently pursuing B.Tech in Electronics and communication Engineering.
 - 💞️ I’m looking to collaborate on software development project.
 - 📫 Reach me at @ tipukhan2315@gmail.com
 <!---
