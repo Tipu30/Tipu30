@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tipukhan2315@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hu2AMVoxpiC-my7SLAQ5N5uGPFg4mv7r/view?usp=sharing](https://drive.google.com/file/d/1hu2AMVoxpiC-my7SLAQ5N5uGPFg4mv7r/view?usp=sharing)
+- 📄 Know about my experiences : Resume - [https://drive.google.com/file/d/1hu2AMVoxpiC-my7SLAQ5N5uGPFg4mv7r/view?usp=sharing](https://drive.google.com/file/d/1hu2AMVoxpiC-my7SLAQ5N5uGPFg4mv7r/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
