@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tipu Sultan</h1>
 <h3 align="center">A passionate UI Full-Stack Developer</h3>
-<img height="250" src="https://drive.google.com/file/d/1emB74a3dTA2lOsd0I0omwStASx_1lmSC/view?usp=sharing">
+![coder](coder.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipu30&label=Profile%20views&color=0e75b6&style=flat" alt="tipu30" /> </p>
 
