@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tipu Sultan</h1>
 <h3 align="center">A passionate UI Full-Stack Developer</h3>
 
-![coder](https://github.com/Tipu30/Tipu30/assets/92074859/852e3969-7f42-4c5b-b2d2-db3534491368)
+<img align="right" width="300" src="https://github.com/Tipu30/Tipu30/assets/92074859/852e3969-7f42-4c5b-b2d2-db3534491368">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipu30&label=Profile%20views&color=0e75b6&style=flat" alt="tipu30" /> </p>
 
