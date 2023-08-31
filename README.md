@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tipu Sultan</h1>
 <h3 align="center">A passionate UI Full-Stack Developer</h3>
-<img height="250" src="https://drive.google.com/file/d/1emB74a3dTA2lOsd0I0omwStASx_1lmSC/view?usp=sharing">
+
+![coder](https://github.com/Tipu30/Tipu30/assets/92074859/852e3969-7f42-4c5b-b2d2-db3534491368)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipu30&label=Profile%20views&color=0e75b6&style=flat" alt="tipu30" /> </p>
 
 - Hi, I'm currently working on **Smart shopping web app**
