@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tipu Sultan</h1>
 <h3 align="center">A passionate UI Full-Stack Developer</h3>
-<img height="250" src="https://dribbble.com/shots/16396027-Nightly-coder-graphic-logo-design/attachments/10008375?mode=media">
+<img height="250" src="https://www.shutterstock.com/image-vector/man-works-computer-night-colored-vector-1333896002">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipu30&label=Profile%20views&color=0e75b6&style=flat" alt="tipu30" /> </p>
 
