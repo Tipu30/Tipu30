@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tipu Sultan</h1>
 <h3 align="center">A passionate UI Full-Stack Developer</h3>
-<img width=400px align="right"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4549489%2Favatar_occupation_programmer_programming_icon&psig=AOvVaw2_0k8SCspBbAplPkyI6OeH&ust=1693575393267000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCM8o6Ch4EDFQAAAAAdAAAAABAy">
+<img width="400" align="right"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4549489%2Favatar_occupation_programmer_programming_icon&psig=AOvVaw2_0k8SCspBbAplPkyI6OeH&ust=1693575393267000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCM8o6Ch4EDFQAAAAAdAAAAABAy">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipu30&label=Profile%20views&color=0e75b6&style=flat" alt="tipu30" /> </p>
 
