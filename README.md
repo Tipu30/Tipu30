@@ -3,7 +3,7 @@
 
 <img align="right" width="300" src="https://github.com/Tipu30/Tipu30/assets/92074859/852e3969-7f42-4c5b-b2d2-db3534491368">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tipu30&label=Profile%20views&color=0e75b6&style=flat" alt="tipu30" /> </p>
+<p align="left"> <img src="https://github.com/Tipu30/Tipu30/assets/92074859/2643c185-9906-4408-8cb7-0a58a84f4381" /> </p>
 
 - Hi, I'm currently working on **Smart shopping web app**
 
