@@ -7,7 +7,7 @@
 
 - Hi, I'm currently working on **Smart shopping web app**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Front end projects**
 
