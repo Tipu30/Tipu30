@@ -4,7 +4,7 @@
 <img align="right" width="300" src="https://github.com/Tipu30/Tipu30/assets/92074859/852e3969-7f42-4c5b-b2d2-db3534491368">
 
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **NEXT.js** Framework
 
 - 👯 I’m looking to collaborate on **Front end projects**
 
